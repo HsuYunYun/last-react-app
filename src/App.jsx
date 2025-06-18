@@ -2,9 +2,6 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import MySlider from "./component/rgb-panel/MySlider";
-import MyPanel from "./component/rgb-panel/MyPanel";
-import MyCalculator from "./component/calculator/MyCalculator";
 import TicTacToe from "./component/tic-tac-toe/TicTacToe";
 
 function App() {
