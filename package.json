@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hsuyunyun.github.io/last-react-app",
+  "homepage": "https://hsuyunyun.github.io/last-react-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
